@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rico Fitranda</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">i'm an engineering physics student at Institut Teknologi Sepuluh Nopember</h3>
 
-- 🔭 I’m currently working on [SATURASI](https://github.com/eidolon1302/saturasi-web)
+-  I’m currently working on [SATURASI](https://github.com/eidolon1302/saturasi-web)
 
-- 🌱 I’m currently learning **Laravel and Flask**
+-  I’m currently learning **Laravel and Flask**
 
-- 👨‍💻 All of my projects are available at [www.saturasi.000webhost.com](www.saturasi.000webhost.com)
+-  All of my projects are available at [www.saturasi.000webhost.com](www.saturasi.000webhost.com)
 
-- 💬 Ask me about **Laravel and Flask**
+-  How to reach me **ricofitranda@gmail.com**
 
-- 📫 How to reach me **ricofitranda@gmail.com**
-
-- ⚡ Fun fact **i dont know, but i hate Indonesian's goverment**
+-  Fun fact **i dont know, but i hate Indonesian's goverment**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
